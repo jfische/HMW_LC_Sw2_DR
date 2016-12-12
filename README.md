@@ -12,7 +12,8 @@
 * D2: Direction (DE/-RE) Driver/Receiver Enable vom RS485-Treiber 
 * D5: RXD, RO des RS485-Treiber 
 * D6: TXD, DI des RS485-Treiber 
-* D8: Button * D12: Identfy LED 
+* D8: Button 
+* D12: Identfy LED 
 * D13: Button State LED 
 * A0: Eingang 1 
 * A1: Eingang 2 
