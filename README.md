@@ -1,7 +1,7 @@
 #Firmware für HMW_LC_Sw2_DR RS485 Modul: 
 * Homematic Wired Hombrew Hardware Arduino nano als Homematic-Device 2 Taster Eingänge und 2 Relayausgänge nach einer Vorlage von Thorsten Pferdekaemper  (thorsten@pferdekaemper.com) und Dirk Hoffmann (hoffmann@vmd-jena.de)  
 * Das Modul kann ohne zusätzliche CCU-addon an einer CCU betrieben werden 
-*mit Erweiterung um eine Identfy LED
+* mit Erweiterung um eine Identfy LED
 ===================================
 
 #Hardwarebeschreibung: 
